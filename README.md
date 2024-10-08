@@ -5,7 +5,7 @@ Under de senaste veckorna har vi designat en användarvänlig hemsida för ett b
 
 ## 2. Installationskrav, initialiseringsbeskrivning och användning
 För att kunna se vår design:
-- Klicka på länken [här](https://www.figma.com/design/aVggMAbpWQfwXodEsYk8gg/Design?node-id=6-538&t=5SlhB55Dn9WDpNa7-1). Inget konto krävs för att kunna se designen.
+- Klicka på länken [här](https://www.figma.com/design/aVggMAbpWQfwXodEsYk8gg/Design?node-id=0-1&t=Hw04941BBmnl50hU-1). Inget konto krävs för att kunna se designen.
 - Konto krävs för att redigera och anpassa komponenterna i designen.
 - Inga ytterligare installationskrav då projektet endast är en design på [figma](figma.com).
 
@@ -21,4 +21,4 @@ Inga buggar finns då det endast är en design. Bara att det inte finns någon r
 - [**Figma**](figma.com): Används för att skapa UI/UX-designen.
 
 ## 6. Licens
-Denna kod och design är öppen för att användas och modifieras av andra, så länge kreditering ges till originalförfattarna och designteamet, designen hittas [här](https://www.figma.com/design/aVggMAbpWQfwXodEsYk8gg/Design?node-id=6-538&t=5SlhB55Dn9WDpNa7-1).
+Denna kod och design är öppen för att användas och modifieras av andra, så länge kreditering ges till originalförfattarna och designteamet, designen hittas [här](https://www.figma.com/design/aVggMAbpWQfwXodEsYk8gg/Design?node-id=0-1&t=Hw04941BBmnl50hU-1).
