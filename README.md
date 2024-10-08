@@ -10,7 +10,7 @@ För att kunna se vår design:
 - Inga ytterligare installationskrav då projektet endast är en design på [figma](figma.com).
 
 ## 3. Kända buggar
-Inga buggar finns då det endast är en design. Bara att 
+Inga buggar finns då det endast är en design. Bara att det inte finns någon responsivitet på alla sidor utom home.
 
 ## 4. Framtida utveckling/status
 - Framtidsplaner: Möjlig implementering av hemsidan med hjälp av ett front-end ramverk (t.ex. Quasar eller React).
