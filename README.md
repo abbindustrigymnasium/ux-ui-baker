@@ -1,24 +1,24 @@
-# Quasar App (quasar-project)
+# UX/UI Bakery Project
 
-A Quasar Project
+## 1. Kort beskrivning av projektet
+Under de senaste veckorna har vi designat en användarvänlig hemsida för ett bageri riktat mot lastbilschaufförer. Webbplatsen består av 10 sidor, inklusive Home Page, Menu Page och Order Page, med fokus på att skapa en enkel och smidig användarupplevelse. Designen är optimerad för att snabbt ge åtkomst till viktig information och underlätta beställningar för användarna.
 
-## Install the dependencies
-```bash
-yarn
-# or
-npm install
-```
+## 2. Installationskrav, initialiseringsbeskrivning och användning
+För att kunna se vår design:
+- Klicka på länken [här](https://www.figma.com/design/aVggMAbpWQfwXodEsYk8gg/Design?node-id=0-1&t=Hw04941BBmnl50hU-1). Inget konto krävs för att kunna se designen.
+- Konto krävs för att redigera och anpassa komponenterna i designen.
+- Inga ytterligare installationskrav då projektet endast är en design på [figma](figma.com).
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+## 3. Kända buggar
+Inga buggar finns då det endast är en design. Bara att det inte finns någon responsivitet på alla sidor utom home.
 
+## 4. Framtida utveckling/status
+- Framtidsplaner: Möjlig implementering av hemsidan med hjälp av ett front-end ramverk (t.ex. Quasar eller React).
+- Status: För tillfället endast en design utan implementation.
+- Implementera responsiv design för olika skärmstorlekar.
 
-### Build the app for production
-```bash
-quasar build
-```
+## 5. Mjukvara
+- [**Figma**](figma.com): Används för att skapa UI/UX-designen.
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+## 6. Licens
+Denna kod och design är öppen för att användas och modifieras av andra, så länge kreditering ges till originalförfattarna och designteamet, designen hittas [här](https://www.figma.com/design/aVggMAbpWQfwXodEsYk8gg/Design?node-id=0-1&t=Hw04941BBmnl50hU-1).
